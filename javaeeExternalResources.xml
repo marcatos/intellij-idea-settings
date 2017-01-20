@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="urn:magento:framework:App/Language/package.xsd" location="$USER_HOME$/Projects/Hevelop/valsana/vendor/magento/framework/App/Language/package.xsd" />
+  </component>
+</application>
