@@ -3,6 +3,7 @@
     <option name="customScope" value="File '[valsana] - .../app/code/Hevelop/Import/Setup/InstallData.php'" />
     <option name="defaultScopeName" value="File '[valsana] - .../app/code/Hevelop/Import/Setup/InstallData.php'" />
     <option name="SEARCH_SCOPE" value="File '[valsana] - .../app/code/Hevelop/Import/Setup/InstallData.php'" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,13 +14,13 @@
       <mask>*.mxml</mask>
       <mask>.htaccess</mask>
       <mask>*.phtml</mask>
-      <mask>*.js</mask>
       <mask>registration.php</mask>
       <mask>Context.php</mask>
       <mask>*.php</mask>
       <mask>*.less</mask>
       <mask>system.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
