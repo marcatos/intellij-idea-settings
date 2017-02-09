@@ -16,10 +16,10 @@
       <mask>registration.php</mask>
       <mask>Context.php</mask>
       <mask>*.php</mask>
-      <mask>*.less</mask>
       <mask>system.xml</mask>
       <mask>*.xml</mask>
       <mask>*.js</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
