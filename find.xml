@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="File '[valsana] - .../app/code/Hevelop/Import/Setup/InstallData.php'" />
+    <option name="FILE_MASK" value=".htaccess" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,7 +14,6 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>.htaccess</mask>
       <mask>registration.php</mask>
       <mask>Context.php</mask>
       <mask>system.xml</mask>
@@ -22,6 +22,7 @@
       <mask>*.less</mask>
       <mask>*.php</mask>
       <mask>*.phtml</mask>
+      <mask>.htaccess</mask>
     </recentFileMasks>
   </component>
 </application>
