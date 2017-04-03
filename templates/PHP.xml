@@ -4,7 +4,7 @@
       <option name="PHP Comment" value="true" />
     </context>
   </template>
-  <template name="vard" value="var_dump($END$);" toReformat="false" toShortenFQNames="true">
+  <template name="vard" value="var_dump($END$);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP Statement" value="true" />
     </context>
