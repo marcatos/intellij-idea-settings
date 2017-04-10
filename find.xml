@@ -14,13 +14,13 @@
       <mask>registration.php</mask>
       <mask>Context.php</mask>
       <mask>system.xml</mask>
-      <mask>*.js</mask>
       <mask>*.less</mask>
       <mask>*.php</mask>
       <mask>.htaccess</mask>
       <mask>*</mask>
-      <mask>*.phtml</mask>
       <mask>*.xml</mask>
+      <mask>*.js</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
