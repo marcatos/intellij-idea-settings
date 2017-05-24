@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,7 +17,6 @@
       <mask>registration.php</mask>
       <mask>Context.php</mask>
       <mask>system.xml</mask>
-      <mask>*.php</mask>
       <mask>.htaccess</mask>
       <mask>*</mask>
       <mask>*.xml</mask>
@@ -24,6 +24,7 @@
       <mask>*.phtml</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
