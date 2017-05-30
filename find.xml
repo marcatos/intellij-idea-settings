@@ -18,12 +18,12 @@
       <mask>system.xml</mask>
       <mask>.htaccess</mask>
       <mask>*</mask>
-      <mask>*.xml</mask>
       <mask>*.js</mask>
       <mask>*.phtml</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.php</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
