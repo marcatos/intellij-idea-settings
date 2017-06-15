@@ -15,7 +15,6 @@
       <mask>*.mxml</mask>
       <mask>registration.php</mask>
       <mask>Context.php</mask>
-      <mask>system.xml</mask>
       <mask>.htaccess</mask>
       <mask>*</mask>
       <mask>*.js</mask>
@@ -25,6 +24,12 @@
       <mask>*.xml</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>s</mask>
+      <mask>sysy</mask>
+      <mask>sys</mask>
+      <mask>syst</mask>
+      <mask>syste</mask>
+      <mask>system.xml</mask>
     </recentFileMasks>
   </component>
 </application>
