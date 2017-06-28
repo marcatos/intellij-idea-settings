@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -14,14 +15,12 @@
       <mask>registration.php</mask>
       <mask>Context.php</mask>
       <mask>.htaccess</mask>
-      <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.phtml</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.xml</mask>
       <mask>*.ph</mask>
-      <mask>*.php</mask>
       <mask>s</mask>
       <mask>sysy</mask>
       <mask>sys</mask>
@@ -30,6 +29,10 @@
       <mask>system.xml</mask>
       <mask>systemcustomer_account_login.xml.xml</mask>
       <mask>customer_account_login.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
