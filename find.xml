@@ -16,7 +16,6 @@
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.xml</mask>
-      <mask>*.ph</mask>
       <mask>s</mask>
       <mask>sysy</mask>
       <mask>sys</mask>
@@ -28,7 +27,6 @@
       <mask>*</mask>
       <mask>*.p</mask>
       <mask>*.pht</mask>
-      <mask>*.phtml</mask>
       <mask>*.ks</mask>
       <mask>*.k</mask>
       <mask>*.s</mask>
@@ -36,6 +34,8 @@
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
