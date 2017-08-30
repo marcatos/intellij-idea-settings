@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.java</mask>
       <mask>*.as</mask>
@@ -13,7 +14,6 @@
       <mask>.htaccess</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
-      <mask>*.xml</mask>
       <mask>s</mask>
       <mask>sysy</mask>
       <mask>sys</mask>
@@ -34,6 +34,7 @@
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.phtml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
