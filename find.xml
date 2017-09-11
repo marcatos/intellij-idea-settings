@@ -4,8 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>registration.php</mask>
@@ -22,16 +20,18 @@
       <mask>systemcustomer_account_login.xml.xml</mask>
       <mask>customer_account_login.xml</mask>
       <mask>*</mask>
-      <mask>*.p</mask>
       <mask>*.pht</mask>
       <mask>*.ks</mask>
       <mask>*.k</mask>
       <mask>*.s</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
       <mask>*.phtml</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
