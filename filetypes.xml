@@ -1,32 +1,32 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="crontab" type="Bash" />
       <mapping pattern="odoo-server" type="Bash" />
-      <mapping pattern=".gitKeep" type="PLAIN_TEXT" />
-      <mapping pattern="modman" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="Bash" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="crontab_copy" type="PLAIN_TEXT" />
+      <mapping pattern="request" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="logrotate" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="odoo-servre" type="PLAIN_TEXT" />
+      <mapping pattern="design/frontend/base/default/layout/" type="PLAIN_TEXT" />
+      <mapping pattern="modman" type="PLAIN_TEXT" />
       <mapping pattern="0" type="PLAIN_TEXT" />
+      <mapping pattern=".gitKeep" type="PLAIN_TEXT" />
       <mapping pattern="amazon data" type="PLAIN_TEXT" />
       <mapping pattern=".git-keep" type="PLAIN_TEXT" />
-      <mapping pattern="design/frontend/base/default/layout/" type="PLAIN_TEXT" />
-      <mapping pattern="request" type="PLAIN_TEXT" />
-      <mapping pattern="odoo-servre" type="PLAIN_TEXT" />
-      <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping pattern="logrotate" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
-      <mapping ext="flag" type="PLAIN_TEXT" />
-      <mapping ext="m1" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
-      <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="redis" type="PLAIN_TEXT" />
-      <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping ext="flag" type="PLAIN_TEXT" />
+      <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="pkpass" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="m1" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="template" type="XML" />
     </extensionMap>
   </component>
