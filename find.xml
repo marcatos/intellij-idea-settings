@@ -19,21 +19,21 @@
       <mask>system.xml</mask>
       <mask>systemcustomer_account_login.xml.xml</mask>
       <mask>customer_account_login.xml</mask>
-      <mask>*</mask>
       <mask>*.pht</mask>
       <mask>*.ks</mask>
       <mask>*.k</mask>
       <mask>*.s</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.ph</mask>
       <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.phtml</mask>
-      <mask>*.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
