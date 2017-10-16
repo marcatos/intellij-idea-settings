@@ -3,14 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>registration.php</mask>
-      <mask>Context.php</mask>
       <mask>.htaccess</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
       <mask>s</mask>
       <mask>sysy</mask>
       <mask>sys</mask>
@@ -25,14 +20,20 @@
       <mask>*.s</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.xm</mask>
       <mask>*.phtml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.x</mask>
+      <mask>*.xmnkl</mask>
+      <mask>*.xmnk</mask>
+      <mask>*.xmn</mask>
+      <mask>*.xm</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
