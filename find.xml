@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.phtml" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>.htaccess</mask>
       <mask>s</mask>
@@ -27,14 +27,14 @@
       <mask>*.less</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.x</mask>
       <mask>*.xmnkl</mask>
       <mask>*.xmnk</mask>
       <mask>*.xmn</mask>
       <mask>*.xm</mask>
       <mask>*.p</mask>
-      <mask>*.xml</mask>
       <mask>*.phtml</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
