@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.phtml" />
     <recentFileMasks>
       <mask>.htaccess</mask>
       <mask>s</mask>
@@ -31,8 +32,8 @@
       <mask>*.xmnk</mask>
       <mask>*.xmn</mask>
       <mask>*.xm</mask>
-      <mask>*.xml</mask>
       <mask>*.p</mask>
+      <mask>*.xml</mask>
       <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
