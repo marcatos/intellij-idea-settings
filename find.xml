@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
-      <mask>.htaccess</mask>
-      <mask>s</mask>
       <mask>sysy</mask>
       <mask>sys</mask>
       <mask>syst</mask>
@@ -24,13 +23,15 @@
       <mask>*.xmnk</mask>
       <mask>*.xmn</mask>
       <mask>*.xm</mask>
+      <mask>*.php</mask>
+      <mask>.</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.phtml</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.php</mask>
+      <mask>*.l</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
