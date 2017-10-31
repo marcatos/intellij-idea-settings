@@ -26,14 +26,14 @@
       <mask>.</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.phtml</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>*.l</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.p</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
