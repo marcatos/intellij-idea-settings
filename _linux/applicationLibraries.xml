@@ -23,6 +23,7 @@
         <root url="jar:///usr/share/groovy/lib/bsf.jar!/" />
         <root url="jar:///usr/share/groovy/lib/commons-cli.jar!/" />
         <root url="jar:///usr/share/groovy/lib/junit4.jar!/" />
+        <root url="file://$USER_HOME$/Projects/Hevelop/mondovino/src" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
