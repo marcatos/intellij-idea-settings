@@ -5,17 +5,18 @@
       <mapping pattern="odoo-server" type="Bash" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern=".gitKeep" type="PLAIN_TEXT" />
+      <mapping pattern="request" type="PLAIN_TEXT" />
       <mapping pattern="modman" type="PLAIN_TEXT" />
       <mapping pattern="crontab_copy" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="design/adminhtml/default/default/layout/test/xml" type="PLAIN_TEXT" />
       <mapping pattern="logrotate" type="PLAIN_TEXT" />
+      <mapping pattern="Magefan/Blog/Post/PostList.php" type="PLAIN_TEXT" />
       <mapping pattern=".regenerate" type="PLAIN_TEXT" />
       <mapping pattern="0" type="PLAIN_TEXT" />
       <mapping pattern="amazon data" type="PLAIN_TEXT" />
       <mapping pattern=".git-keep" type="PLAIN_TEXT" />
       <mapping pattern="design/frontend/base/default/layout/" type="PLAIN_TEXT" />
-      <mapping pattern="request" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="odoo-servre" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
