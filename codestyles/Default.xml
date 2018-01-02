@@ -9,4 +9,7 @@
   <XML>
     <option name="XML_TEXT_WRAP" value="0" />
   </XML>
+  <codeStyleSettings language="XML">
+    <option name="RIGHT_MARGIN" value="150" />
+  </codeStyleSettings>
 </code_scheme>
