@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>sysy</mask>
       <mask>sys</mask>
@@ -33,9 +34,9 @@
       <mask>*.less</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
-      <mask>*.php</mask>
       <mask>*.p</mask>
       <mask>*.phtml</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
