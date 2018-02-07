@@ -15,7 +15,6 @@
       <mask>*.ks</mask>
       <mask>*.k</mask>
       <mask>*.s</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.ph</mask>
       <mask>*.xmnkl</mask>
@@ -34,6 +33,7 @@
       <mask>*.p</mask>
       <mask>*.phtml</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
