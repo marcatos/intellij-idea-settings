@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.phtml" />
     <recentFileMasks>
       <mask>sys</mask>
       <mask>syst</mask>
@@ -31,11 +32,11 @@
       <mask>*.less</mask>
       <mask>*.x</mask>
       <mask>*.p</mask>
-      <mask>*.phtml</mask>
       <mask>*.php</mask>
       <mask>*.js</mask>
       <mask>*.rb</mask>
       <mask>*.xml</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
