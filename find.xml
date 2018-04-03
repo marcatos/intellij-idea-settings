@@ -3,37 +3,15 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>sys</mask>
-      <mask>syst</mask>
-      <mask>syste</mask>
-      <mask>system.xml</mask>
-      <mask>systemcustomer_account_login.xml.xml</mask>
-      <mask>customer_account_login.xml</mask>
-      <mask>*.pht</mask>
-      <mask>*.ks</mask>
-      <mask>*.k</mask>
-      <mask>*.s</mask>
-      <mask>*.j</mask>
-      <mask>*.ph</mask>
-      <mask>*.xmnkl</mask>
-      <mask>*.xmnk</mask>
-      <mask>*.xmn</mask>
-      <mask>*.xm</mask>
-      <mask>.</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
-      <mask>*.x</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
-      <mask>*.js</mask>
-      <mask>*.rb</mask>
-      <mask>*.xml</mask>
-      <mask>*.phtml</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
