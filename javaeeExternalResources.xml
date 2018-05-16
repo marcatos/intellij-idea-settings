@@ -1,6 +1,7 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://pmd.sf.net/ruleset_xml_schema.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/8a117d51_ruleset_xml_schema.xsd" />
+    <resource url="http://www.w3.org/TR/2002/REC-xmldsig-core-20020212/xmldsig-core-schema.xsd" location="$USER_HOME$/.IntelliJIdea2018.1/system/extResources/e87deeab_xmldsig-core-schema.xsd" />
     <resource url="urn:magento:framework:App/Language/package.xsd" location="$USER_HOME$/Projects/Hevelop/valsana/vendor/magento/framework/App/Language/package.xsd" />
   </component>
 </application>
