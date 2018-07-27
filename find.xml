@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="styles.less" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,5 +20,6 @@
     <mask>require-config.js</mask>
     <mask>InstallData.php</mask>
     <mask>*.xml</mask>
+    <mask>styles.less</mask>
   </component>
 </application>
