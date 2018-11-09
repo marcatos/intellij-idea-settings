@@ -20,5 +20,6 @@
     <mask>styles.less</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>requirejs-config.js</mask>
   </component>
 </application>
