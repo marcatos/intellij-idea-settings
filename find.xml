@@ -8,7 +8,6 @@
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>config.xml</mask>
     <mask>system.xml</mask>
@@ -22,5 +21,6 @@
     <mask>*.phtml</mask>
     <mask>catalog_category_view_type_layered.xml</mask>
     <mask>*.less</mask>
+    <mask>*.css</mask>
   </component>
 </application>
