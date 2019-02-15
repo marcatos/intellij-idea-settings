@@ -22,5 +22,6 @@
     <mask>catalog_category_view_type_layered.xml</mask>
     <mask>*.less</mask>
     <mask>*.css</mask>
+    <mask>modman</mask>
   </component>
 </application>
