@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,7 +16,6 @@
     <mask>InstallData.php</mask>
     <mask>styles.less</mask>
     <mask>requirejs-config.js</mask>
-    <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>*.phtml</mask>
@@ -23,5 +23,6 @@
     <mask>*.css</mask>
     <mask>modman</mask>
     <mask>*.less</mask>
+    <mask>*.js</mask>
   </component>
 </application>
