@@ -23,5 +23,6 @@
     <mask>modman</mask>
     <mask>*.less</mask>
     <mask>*.js</mask>
+    <mask>1column*</mask>
   </component>
 </application>
