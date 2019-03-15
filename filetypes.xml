@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="variables" type="Bash" />
+      <mapping pattern="push" type="Bash" />
       <mapping pattern="crontab_worker" type="Bash" />
       <mapping pattern="crontab" type="Bash" />
       <mapping pattern="odoo-server" type="Bash" />
