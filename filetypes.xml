@@ -42,6 +42,7 @@
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="pkpass" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="dapper" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="gz" type="TypeScript" />
       <mapping ext="template" type="XML" />
