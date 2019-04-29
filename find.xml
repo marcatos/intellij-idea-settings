@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,11 +22,11 @@
     <mask>catalog_category_view_type_layered.xml</mask>
     <mask>*.css</mask>
     <mask>modman</mask>
-    <mask>*.less</mask>
     <mask>*.js</mask>
     <mask>1column*</mask>
     <mask>head.phtml</mask>
     <mask>variables.tf</mask>
     <mask>*.csv</mask>
+    <mask>*.less</mask>
   </component>
 </application>
