@@ -27,5 +27,6 @@
     <mask>*.csv</mask>
     <mask>*.less</mask>
     <mask>*.xml</mask>
+    <mask>adminhtml.xml</mask>
   </component>
 </application>
