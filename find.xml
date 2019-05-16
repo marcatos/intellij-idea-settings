@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,7 +16,6 @@
     <mask>InstallData.php</mask>
     <mask>styles.less</mask>
     <mask>requirejs-config.js</mask>
-    <mask>*.php</mask>
     <mask>*.phtml</mask>
     <mask>catalog_category_view_type_layered.xml</mask>
     <mask>*.css</mask>
@@ -29,5 +29,6 @@
     <mask>readme.md</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
