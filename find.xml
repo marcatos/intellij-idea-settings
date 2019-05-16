@@ -27,7 +27,7 @@
     <mask>*.less</mask>
     <mask>adminhtml.xml</mask>
     <mask>readme.md</mask>
-    <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
