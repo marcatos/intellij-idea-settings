@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="system.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -10,7 +11,6 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>config.xml</mask>
-    <mask>system.xml</mask>
     <mask>require-config.js</mask>
     <mask>InstallData.php</mask>
     <mask>styles.less</mask>
@@ -29,5 +29,6 @@
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>system.xml</mask>
   </component>
 </application>
