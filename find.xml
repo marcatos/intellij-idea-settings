@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -27,9 +28,9 @@
     <mask>*.less</mask>
     <mask>adminhtml.xml</mask>
     <mask>readme.md</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>system.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
