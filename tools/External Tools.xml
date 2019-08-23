@@ -1,7 +1,7 @@
 <toolSet name="External Tools">
   <tool name="php-cs-fixer" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$vendor/bin/php-cs-fixer" />
+      <option name="COMMAND" value="$ProjectFileDir$/vendor/bin/php-cs-fixer" />
       <option name="PARAMETERS" value="fix --verbose --config $ProjectFileDir$/.php_cs.dist $ProjectFileDir$" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/Projects/Hevelop/timetrack/vendor/bin" />
     </exec>
