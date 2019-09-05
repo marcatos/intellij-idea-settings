@@ -25,9 +25,9 @@
     <mask>*.less</mask>
     <mask>adminhtml.xml</mask>
     <mask>readme.md</mask>
-    <mask>*.js</mask>
     <mask>system.xml</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
