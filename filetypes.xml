@@ -8,9 +8,9 @@
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern="Vendor/Address.php" type="PLAIN_TEXT" />
       <mapping pattern=".gitKeep" type="PLAIN_TEXT" />
+      <mapping pattern="request" type="PLAIN_TEXT" />
       <mapping pattern="Magefan/Blog/Post/PostList.php" type="PLAIN_TEXT" />
       <mapping pattern="crontab_copy" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="design/adminhtml/default/default/layout/test/xml" type="PLAIN_TEXT" />
       <mapping pattern="fpm/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".index.php.swp" type="PLAIN_TEXT" />
@@ -33,7 +33,7 @@
       <mapping pattern="test/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".git-keep" type="PLAIN_TEXT" />
       <mapping pattern="design/frontend/base/default/layout/" type="PLAIN_TEXT" />
-      <mapping pattern="request" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".infra/jenkins/rollback/Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="odoo-servre" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
