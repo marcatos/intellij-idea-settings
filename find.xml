@@ -29,5 +29,6 @@
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.less</mask>
+    <mask>Dockerfile</mask>
   </component>
 </application>
