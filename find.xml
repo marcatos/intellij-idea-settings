@@ -25,10 +25,10 @@
     <mask>adminhtml.xml</mask>
     <mask>readme.md</mask>
     <mask>system.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.less</mask>
     <mask>Dockerfile</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
