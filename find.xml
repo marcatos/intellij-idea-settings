@@ -11,7 +11,6 @@
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
-    <mask>config.xml</mask>
     <mask>require-config.js</mask>
     <mask>InstallData.php</mask>
     <mask>styles.less</mask>
@@ -29,8 +28,9 @@
     <mask>*.js</mask>
     <mask>*.less</mask>
     <mask>Dockerfile</mask>
-    <mask>*.xml</mask>
     <mask>variables.tf</mask>
     <mask>*.php</mask>
+    <mask>*.xml</mask>
+    <mask>config.xml</mask>
   </component>
 </application>
