@@ -30,6 +30,7 @@
     <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>config.xml</mask>
+    <mask>*.orm.yml</mask>
     <mask>*.yml</mask>
   </component>
 </application>
