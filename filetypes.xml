@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="push" type="Bash" />
       <mapping pattern="crontab_worker" type="Bash" />
-      <mapping pattern="odoo-server" type="Bash" />
       <mapping pattern="variables" type="Bash" />
+      <mapping pattern="odoo-server" type="Bash" />
       <mapping pattern="crontab" type="Bash" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
@@ -18,6 +18,7 @@
       <mapping pattern="Vendor/Address.php" type="PLAIN_TEXT" />
       <mapping pattern="request" type="PLAIN_TEXT" />
       <mapping pattern="Magefan/Blog/Post/PostList.php" type="PLAIN_TEXT" />
+      <mapping pattern="mardegan" type="PLAIN_TEXT" />
       <mapping pattern="amazon data" type="PLAIN_TEXT" />
       <mapping pattern=".index.php.swp" type="PLAIN_TEXT" />
       <mapping pattern=".gitKeep" type="PLAIN_TEXT" />
@@ -33,6 +34,7 @@
       <mapping pattern="fpm/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="modman" type="PLAIN_TEXT" />
       <mapping pattern="design/frontend/base/default/layout/" type="PLAIN_TEXT" />
+      <mapping pattern="crontab_copy" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="test/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".avn" type="PLAIN_TEXT" />
@@ -40,9 +42,9 @@
       <mapping pattern="0" type="PLAIN_TEXT" />
       <mapping pattern="envvars" type="PLAIN_TEXT" />
       <mapping pattern="n98-magerun" type="PLAIN_TEXT" />
-      <mapping pattern="crontab_copy" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="flag" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="m1" type="PLAIN_TEXT" />
       <mapping ext="load" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
