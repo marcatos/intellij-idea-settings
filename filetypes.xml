@@ -1,63 +1,61 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="push" type="Bash" />
-      <mapping pattern="crontab_worker" type="Bash" />
       <mapping pattern="variables" type="Bash" />
-      <mapping pattern="odoo-server" type="Bash" />
+      <mapping pattern="crontab_worker" type="Bash" />
+      <mapping pattern="push" type="Bash" />
       <mapping pattern="crontab" type="Bash" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="odoo-server" type="Bash" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
-      <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern="console" type="PHP" />
-      <mapping pattern="design/adminhtml/default/default/layout/test/xml" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".redirects" type="PLAIN_TEXT" />
-      <mapping pattern="logrotate" type="PLAIN_TEXT" />
-      <mapping pattern="Vendor/Address.php" type="PLAIN_TEXT" />
-      <mapping pattern="request" type="PLAIN_TEXT" />
-      <mapping pattern="Magefan/Blog/Post/PostList.php" type="PLAIN_TEXT" />
-      <mapping pattern="mardegan" type="PLAIN_TEXT" />
-      <mapping pattern="amazon data" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs.dist" type="PHP" />
+      <mapping pattern="0" type="PLAIN_TEXT" />
       <mapping pattern=".index.php.swp" type="PLAIN_TEXT" />
-      <mapping pattern=".gitKeep" type="PLAIN_TEXT" />
-      <mapping pattern=".infra/pipelines/rollback/Jenkinsfile" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="node/Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="odoo-servre" type="PLAIN_TEXT" />
-      <mapping pattern=".infra/jenkins/rollback/Jenkinsfile" type="PLAIN_TEXT" />
-      <mapping pattern="devtools/Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="clean" type="PLAIN_TEXT" />
-      <mapping pattern=".git-keep" type="PLAIN_TEXT" />
-      <mapping pattern=".regenerate" type="PLAIN_TEXT" />
-      <mapping pattern="fpm/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="Magefan/Blog/Post/PostList.php" type="PLAIN_TEXT" />
       <mapping pattern="modman" type="PLAIN_TEXT" />
-      <mapping pattern="design/frontend/base/default/layout/" type="PLAIN_TEXT" />
       <mapping pattern="crontab_copy" type="PLAIN_TEXT" />
-      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
-      <mapping pattern="test/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="design/adminhtml/default/default/layout/test/xml" type="PLAIN_TEXT" />
+      <mapping pattern="fpm/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="Vendor/Address.php" type="PLAIN_TEXT" />
+      <mapping pattern="devtools/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="n98-magerun" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".avn" type="PLAIN_TEXT" />
       <mapping pattern=".avm" type="PLAIN_TEXT" />
-      <mapping pattern="0" type="PLAIN_TEXT" />
+      <mapping pattern=".infra/pipelines/rollback/Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern=".gitKeep" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="logrotate" type="PLAIN_TEXT" />
+      <mapping pattern="node/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="envvars" type="PLAIN_TEXT" />
-      <mapping pattern="n98-magerun" type="PLAIN_TEXT" />
+      <mapping pattern=".regenerate" type="PLAIN_TEXT" />
+      <mapping pattern=".redirects" type="PLAIN_TEXT" />
+      <mapping pattern="amazon data" type="PLAIN_TEXT" />
+      <mapping pattern="test/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern=".git-keep" type="PLAIN_TEXT" />
+      <mapping pattern="design/frontend/base/default/layout/" type="PLAIN_TEXT" />
+      <mapping pattern="request" type="PLAIN_TEXT" />
+      <mapping pattern="clean" type="PLAIN_TEXT" />
+      <mapping pattern=".infra/jenkins/rollback/Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="odoo-servre" type="PLAIN_TEXT" />
+      <mapping pattern="mardegan" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="flag" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="m1" type="PLAIN_TEXT" />
       <mapping ext="load" type="PLAIN_TEXT" />
+      <mapping ext="plan" type="PLAIN_TEXT" />
+      <mapping ext="dapper" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
-      <mapping ext="jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
-      <mapping ext="plan" type="PLAIN_TEXT" />
       <mapping ext="redis" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping ext="jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="pkpass" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="dapper" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="gz" type="TypeScript" />
       <mapping ext="template" type="XML" />
