@@ -28,10 +28,10 @@
     <mask>config.xml</mask>
     <mask>*.orm.yml</mask>
     <mask>*.yml</mask>
-    <mask>*.xml</mask>
     <mask>.htaccess</mask>
     <mask>*.phtml</mask>
     <mask>*.php</mask>
     <mask>extension_attributes.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
