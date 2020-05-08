@@ -10,6 +10,7 @@
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern="console" type="PHP" />
       <mapping pattern="design/adminhtml/default/default/layout/test/xml" type="PLAIN_TEXT" />
+      <mapping pattern=".terraformignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".redirects" type="PLAIN_TEXT" />
       <mapping pattern="logrotate" type="PLAIN_TEXT" />
