@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -21,7 +20,6 @@
     <mask>*.csv</mask>
     <mask>adminhtml.xml</mask>
     <mask>readme.md</mask>
-    <mask>system.xml</mask>
     <mask>*.js</mask>
     <mask>*.less</mask>
     <mask>Dockerfile</mask>
@@ -34,5 +32,6 @@
     <mask>*.php</mask>
     <mask>extension_attributes.xml</mask>
     <mask>*.xml</mask>
+    <mask>system.xml</mask>
   </component>
 </application>
