@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.graphqls" />
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -33,7 +34,7 @@
     <mask>system.xml</mask>
     <mask>*.graphql</mask>
     <mask>*.php</mask>
-    <mask>*.graphqls</mask>
     <mask>*.xml</mask>
+    <mask>*.graphqls</mask>
   </component>
 </application>
