@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -20,7 +21,6 @@
     <mask>*.csv</mask>
     <mask>adminhtml.xml</mask>
     <mask>readme.md</mask>
-    <mask>*.js</mask>
     <mask>*.less</mask>
     <mask>Dockerfile</mask>
     <mask>variables.tf</mask>
@@ -35,5 +35,6 @@
     <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>*.graphqls</mask>
+    <mask>*.js</mask>
   </component>
 </application>
