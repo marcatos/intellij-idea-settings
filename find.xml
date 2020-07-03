@@ -31,11 +31,11 @@
     <mask>*.phtml</mask>
     <mask>extension_attributes.xml</mask>
     <mask>system.xml</mask>
-    <mask>*.graphql</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
-    <mask>*.graphqls</mask>
     <mask>*.scss</mask>
+    <mask>*.graphql</mask>
+    <mask>*.graphqls</mask>
   </component>
 </application>
