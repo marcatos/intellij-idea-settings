@@ -35,7 +35,7 @@
     <mask>*.scss</mask>
     <mask>*.graphql</mask>
     <mask>*.xml</mask>
-    <mask>*.graphqls</mask>
     <mask>AbstractProduct*</mask>
+    <mask>*.graphqls</mask>
   </component>
 </application>
