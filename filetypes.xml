@@ -31,11 +31,11 @@
       <mapping pattern=".regenerate" type="PLAIN_TEXT" />
       <mapping pattern="fpm/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="modman" type="PLAIN_TEXT" />
-      <mapping pattern="design/frontend/base/default/layout/" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="test/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".avn" type="PLAIN_TEXT" />
       <mapping pattern=".avm" type="PLAIN_TEXT" />
+      <mapping pattern="design/frontend/base/default/layout/" type="PLAIN_TEXT" />
       <mapping pattern="0" type="PLAIN_TEXT" />
       <mapping pattern="envvars" type="PLAIN_TEXT" />
       <mapping pattern="n98-magerun" type="PLAIN_TEXT" />
