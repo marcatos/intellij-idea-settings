@@ -16,11 +16,10 @@
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="useMaterialFont2" value="true" />
+    <option name="useColoredDirectories" value="false" />
     <option name="leftTreeIndent" value="1" />
-    <option name="settingsSelectedTab" value="6" />
-    <option name="accentColor" value="416a9b" />
-    <option name="selectedTheme" value="NATIVE" />
+    <option name="accentColor" value="ff9800" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-448129e1:168ad7e5811:-8000" />
     <option name="version" value="5.2.0" />
   </component>
