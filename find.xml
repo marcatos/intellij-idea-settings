@@ -2,12 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.mxml</mask>
     <mask>require-config.js</mask>
     <mask>InstallData.php</mask>
     <mask>styles.less</mask>
@@ -37,5 +34,6 @@
     <mask>AbstractProduct*</mask>
     <mask>*.graphqls</mask>
     <mask>*.phtml</mask>
+    <mask>di.xml</mask>
   </component>
 </application>
