@@ -30,10 +30,10 @@
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.graphql</mask>
-    <mask>*.xml</mask>
     <mask>AbstractProduct*</mask>
     <mask>*.graphqls</mask>
     <mask>*.phtml</mask>
     <mask>di.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
