@@ -29,7 +29,6 @@
     <mask>extension_attributes.xml</mask>
     <mask>system.xml</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.graphql</mask>
     <mask>AbstractProduct*</mask>
@@ -37,5 +36,6 @@
     <mask>*.phtml</mask>
     <mask>di.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
