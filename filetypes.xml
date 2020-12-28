@@ -48,6 +48,7 @@
       <mapping ext="plan" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping ext="ini-development" type="PLAIN_TEXT" />
       <mapping ext="load" type="PLAIN_TEXT" />
       <mapping ext="pkpass" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
