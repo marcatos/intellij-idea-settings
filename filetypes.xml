@@ -28,10 +28,10 @@
       <mapping pattern="test/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="envvars" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern=".gitKeep" type="PLAIN_TEXT" />
       <mapping pattern="request" type="PLAIN_TEXT" />
-      <mapping pattern="design/frontend/base/default/layout/" type="PLAIN_TEXT" />
+      <mapping pattern=".gitKeep" type="PLAIN_TEXT" />
       <mapping pattern=".avn" type="PLAIN_TEXT" />
+      <mapping pattern="design/frontend/base/default/layout/" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Vendor/Address.php" type="PLAIN_TEXT" />
       <mapping pattern="amazon data" type="PLAIN_TEXT" />
