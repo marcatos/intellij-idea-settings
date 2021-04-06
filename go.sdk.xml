@@ -5,6 +5,7 @@
         <option value="" />
         <option value="file://" />
         <option value="file:///home/linuxbrew/.linuxbrew/Cellar/go/1.12.7/libexec" />
+        <option value="file:///usr/lib/go" />
         <option value="file:///usr/lib/go-1.10" />
         <option value="file:///usr/lib/go-1.13" />
         <option value="file:///usr/local/go" />
