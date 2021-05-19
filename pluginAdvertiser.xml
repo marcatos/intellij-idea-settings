@@ -2,6 +2,14 @@
   <component name="PluginAdvertiserExtensions">
     <option name="localState">
       <map>
+        <entry key="*-meta.xml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.illuminatedcloud2.intellij" />
+              <option name="myPluginName" value="Illuminated Cloud 2" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ad">
           <value>
             <plugin>
@@ -33,6 +41,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.apex">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.illuminatedcloud2.intellij" />
+              <option name="myPluginName" value="Illuminated Cloud 2" />
             </plugin>
           </value>
         </entry>
@@ -68,6 +84,14 @@
               <option name="myPluginId" value="JavaScript" />
               <option name="myPluginName" value="JavaScript and TypeScript" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.auradoc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.illuminatedcloud2.intellij" />
+              <option name="myPluginName" value="Illuminated Cloud 2" />
             </plugin>
           </value>
         </entry>
@@ -177,6 +201,30 @@
               <option name="myPluginId" value="com.intellij.java" />
               <option name="myPluginName" value="Java" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cls">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.illuminatedcloud2.intellij" />
+              <option name="myPluginName" value="Illuminated Cloud 2" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cmp">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.illuminatedcloud2.intellij" />
+              <option name="myPluginName" value="Illuminated Cloud 2" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.component">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.illuminatedcloud2.intellij" />
+              <option name="myPluginName" value="Illuminated Cloud 2" />
             </plugin>
           </value>
         </entry>
@@ -298,6 +346,14 @@
               <option name="myPluginId" value="spy-js" />
               <option name="myPluginName" value="Spy-js" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.design">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.illuminatedcloud2.intellij" />
+              <option name="myPluginName" value="Illuminated Cloud 2" />
             </plugin>
           </value>
         </entry>
@@ -446,6 +502,14 @@
             <plugin>
               <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
               <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.evt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.illuminatedcloud2.intellij" />
+              <option name="myPluginName" value="Illuminated Cloud 2" />
             </plugin>
           </value>
         </entry>
@@ -770,6 +834,14 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.plugins.ini4idea" />
               <option name="myPluginName" value="Ini" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.intf">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.illuminatedcloud2.intellij" />
+              <option name="myPluginName" value="Illuminated Cloud 2" />
             </plugin>
           </value>
         </entry>
@@ -1243,6 +1315,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.object">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.illuminatedcloud2.intellij" />
+              <option name="myPluginName" value="Illuminated Cloud 2" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.odt">
           <value>
             <plugin>
@@ -1257,6 +1337,14 @@
             <plugin>
               <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
               <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.page">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.illuminatedcloud2.intellij" />
+              <option name="myPluginName" value="Illuminated Cloud 2" />
             </plugin>
           </value>
         </entry>
@@ -1310,6 +1398,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.permissionset">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.illuminatedcloud2.intellij" />
+              <option name="myPluginName" value="Illuminated Cloud 2" />
             </plugin>
           </value>
         </entry>
@@ -1452,6 +1548,14 @@
             <plugin>
               <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
               <option name="myPluginName" value=".ignore" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.profile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.illuminatedcloud2.intellij" />
+              <option name="myPluginName" value="Illuminated Cloud 2" />
             </plugin>
           </value>
         </entry>
@@ -1679,6 +1783,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.saql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.illuminatedcloud2.intellij" />
+              <option name="myPluginName" value="Illuminated Cloud 2" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.sass">
           <value>
             <plugin>
@@ -1804,6 +1916,14 @@
               <option name="myPluginId" value="com.intellij.java" />
               <option name="myPluginName" value="Java" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.soql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.illuminatedcloud2.intellij" />
+              <option name="myPluginName" value="Illuminated Cloud 2" />
             </plugin>
           </value>
         </entry>
@@ -1975,6 +2095,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.tokens">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.illuminatedcloud2.intellij" />
+              <option name="myPluginName" value="Illuminated Cloud 2" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.toml">
           <value>
             <plugin>
@@ -1988,6 +2116,14 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.php" />
               <option name="myPluginName" value="PHP" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.trigger">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.illuminatedcloud2.intellij" />
+              <option name="myPluginName" value="Illuminated Cloud 2" />
             </plugin>
           </value>
         </entry>
