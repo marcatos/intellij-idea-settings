@@ -6,6 +6,7 @@
     <option name="customTreeIndentEnabled" value="true" />
     <option name="highContrast" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="premium" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
@@ -21,6 +22,6 @@
     <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-448129e1:168ad7e5811:-8000" />
-    <option name="version" value="5.5.0" />
+    <option name="version" value="6.5.0.1" />
   </component>
 </application>
