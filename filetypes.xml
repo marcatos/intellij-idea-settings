@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="csv" type="CSV file" />
-      <mapping ext="csv" type="CSV/TSV" />
-      <mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV" />
+      <mapping ext="csv" type="CSV file" />
+      <removed_mapping ext="tsv" type="CSV/TSV" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="wlens" type="JSON" />
       <mapping ext="wdpr" type="JSON" />
@@ -13,8 +13,6 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="config" type="LOMBOK_CONFIG" />
-      <mapping ext="md" type="Markdown" />
       <mapping pattern="console" type="PHP" />
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern="odoo-servre" type="PLAIN_TEXT" />
@@ -24,10 +22,10 @@
       <mapping pattern=".infra/jenkins/rollback/Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="n98-magerun" type="PLAIN_TEXT" />
       <mapping pattern="design/adminhtml/default/default/layout/test/xml" type="PLAIN_TEXT" />
-      <mapping pattern="fpm/Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern=".git-keep" type="PLAIN_TEXT" />
-      <mapping pattern="0" type="PLAIN_TEXT" />
       <mapping pattern="Magefan/Blog/Post/PostList.php" type="PLAIN_TEXT" />
+      <mapping pattern="0" type="PLAIN_TEXT" />
+      <mapping pattern=".git-keep" type="PLAIN_TEXT" />
+      <mapping pattern="fpm/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="modman" type="PLAIN_TEXT" />
       <mapping pattern=".regenerate" type="PLAIN_TEXT" />
       <mapping pattern="devtools/Dockerfile" type="PLAIN_TEXT" />
@@ -68,8 +66,7 @@
       <mapping ext="redis" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="jenkinsfile" type="PLAIN_TEXT" />
-      <mapping ext="tab" type="TSV" />
-      <removed_mapping ext="tsv" type="TSV" />
+      <mapping ext="tsv" type="TSV" />
       <mapping ext="gz" type="TypeScript" />
       <mapping ext="feedfilter" type="XML" />
       <mapping ext="cleandataservice" type="XML" />
@@ -82,9 +79,9 @@
       <mapping ext="escalationrules" type="XML" />
       <mapping ext="userprovisioningconfig" type="XML" />
       <mapping ext="snapshot" type="XML" />
-      <mapping ext="csptrustedsite" type="XML" />
-      <mapping ext="communitythemedefinition" type="XML" />
       <mapping ext="brandingset" type="XML" />
+      <mapping ext="communitythemedefinition" type="XML" />
+      <mapping ext="csptrustedsite" type="XML" />
       <mapping ext="mldomain" type="XML" />
       <mapping ext="translation" type="XML" />
       <mapping ext="objecttranslation" type="XML" />
@@ -97,8 +94,8 @@
       <mapping ext="outboundnetworkconnection" type="XML" />
       <mapping ext="customapplicationcomponent" type="XML" />
       <mapping ext="pathassistant" type="XML" />
-      <mapping ext="messagechannel" type="XML" />
       <mapping ext="queue" type="XML" />
+      <mapping ext="messagechannel" type="XML" />
       <mapping ext="homepagecomponent" type="XML" />
       <mapping ext="blacklistedconsumer" type="XML" />
       <mapping ext="mobileapplicationdetail" type="XML" />
@@ -126,8 +123,8 @@
       <mapping ext="timesheettemplate" type="XML" />
       <mapping ext="permissionset" type="XML" />
       <mapping ext="role" type="XML" />
-      <mapping ext="site" type="XML" />
       <mapping ext="flexipage" type="XML" />
+      <mapping ext="site" type="XML" />
       <mapping ext="authprovider" type="XML" />
       <mapping ext="assignmentrules" type="XML" />
       <mapping ext="profilepasswordpolicy" type="XML" />
@@ -238,6 +235,7 @@
       <mapping ext="cachepartition" type="XML" />
       <mapping ext="livechatagentconfig" type="XML" />
       <mapping pattern="release-decoded" type="YAML" />
+      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <mapping pattern="crontab" type="Bash" />
       <mapping pattern="crontab_worker" type="Bash" />
